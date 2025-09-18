@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+.env/
+
+# Data, checkpoints, artifacts
+artifacts/
+checkpoints/
+data/
+*.pt
+*.pth
+
+# Notebook junk
+.ipynb_checkpoints/
+.DS_Store
