@@ -69,6 +69,3 @@ python scripts/compare_models.py \
   --image-root /data/flickr30k/images \
   --finetuned-checkpoint checkpoints/linearprobe_best.pt
 ```
-
-## License
-Add your chosen license here (MIT, Apache-2.0, etc.).
