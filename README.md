@@ -10,7 +10,7 @@ fine-tuning.
 - Torchvision-backed data loader for Flickr30k (`captions.txt` + optional
   `train/val/test` split files).
 - TSV fallback loader for custom manifests.
-- Baseline vs. fine-tuned Recall@1/5/10 + Median Rank comparisons saved to JSON.
+- Baseline vs. fine-tuned Recall@1/5/10 comparisons saved to JSON.
 - Standalone evaluation helper (`scripts/compare_models.py`) to benchmark
   arbitrary checkpoints.
 - Reproducible notebook (`notebooks/clip_finetuning_cpu.ipynb`) that mirrors the
